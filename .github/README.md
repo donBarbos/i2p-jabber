@@ -31,7 +31,7 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 
 ### 📝 License
 
-Distributed under the MIT license. See [`LICENSE`](./LICENSE) for more information.
+Distributed under the MIT license. See [`LICENSE`](../LICENSE) for more information.
 
 ### 📢 Contact
 
